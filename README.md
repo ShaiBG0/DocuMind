@@ -89,7 +89,7 @@ docker compose up --build
 
 **4. Acceder a la aplicación**
 
-Abre tu navegador en [http://localhost](http://localhost).
+Abre tu navegador en [http://localhost](http://localhost)
 
 ---
 
