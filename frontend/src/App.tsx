@@ -1,4 +1,5 @@
-import { useState, type ChangeEvent } from 'react';import './index.css';
+import { useState, type ChangeEvent } from 'react';
+import './index.css';
 
 interface Citation {
   page: number | string;
