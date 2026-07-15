@@ -9,6 +9,19 @@
 **DocuMind** es una solución Full-Stack diseñada para procesar, vectorizar y consultar documentos PDF de forma inteligente. 
 Utiliza técnicas de **RAG (Retrieval-Augmented Generation)** para extraer información precisa y responder preguntas basadas exclusivamente 
 en el contexto del archivo cargado.
+```
+Link de pagina: http://129.151.54.245
+```
+
+---
+
+## Demostración del funcionamiento
+
+### Flujo de procesamiento de documentos
+![Procesando PDF](./assets/prueba_gif.gif)
+
+### Ejemplo de consulta
+![Consulta al agente](./assets/respuesta.png)
 
 ---
 
@@ -55,7 +68,7 @@ la respuesta final con el modelo de Groq.
 
 ---
 
-## 📋 Requisitos previos
+## Requisitos previos
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) instalado y en ejecución.
 - Una API key de Groq (gratuita): consíguela en [console.groq.com](https://console.groq.com).
