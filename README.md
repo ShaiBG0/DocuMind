@@ -121,6 +121,11 @@ DocuMind/
 
 ---
 
+## Datos y preguntas de ejemplo
+Para el testeo del agente se ocupó el pdf llamado "Guía Oficial de Ingeniería Back-end.pdf".
+Preguntas de ejemplo:
+¿Cuál es el primer principio fundamental de la ingeniería que se menciona en el documento?
+
 ## Licencia
 
 Este proyecto es de código abierto. Siéntete libre de utilizarlo, modificarlo y mejorarlo.
