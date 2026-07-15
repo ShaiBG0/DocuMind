@@ -1,4 +1,3 @@
-.env
 # Carpetas de Python y sistema
 __pycache__/
 *.pyc
