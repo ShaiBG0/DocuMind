@@ -73,10 +73,13 @@ cd DocuMind
 
 **2. Configurar variables de entorno**
 
-Crea un archivo `.env` en la raíz del proyecto y agrega tu llave de Groq:
+Crea un archivo `.env` en la raíz del proyecto y agrega tu llave de Groq y URL de Vite:
 
 ```
 GROQ_API_KEY=tu_llave_aqui
+```
+```
+VITE_API_URL=http://129.151.54.245:8000
 ```
 
 **3. Levantar los servicios**
