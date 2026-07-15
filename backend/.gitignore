@@ -1,0 +1,9 @@
+# Carpetas de Python y sistema
+__pycache__/
+*.pyc
+
+# Carpetas temporales del proyecto
+temp_docs/
+
+# Archivos de entorno y configuración sensible
+.env
