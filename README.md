@@ -12,6 +12,16 @@ en el contexto del archivo cargado.
 
 ---
 
+## 🎥 Demostración del funcionamiento
+
+### Flujo de procesamiento de documentos
+![Procesando PDF](./assets/prueba_gif.gif)
+
+### Ejemplo de consulta
+![Consulta al agente](./assets/respuesta.png)
+
+---
+
 ## Características principales
 
 - **Procesamiento inteligente**: carga y fragmentación (*chunking*) de archivos PDF mediante `PyMuPDF`.
