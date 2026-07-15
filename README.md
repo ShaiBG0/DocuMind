@@ -1,4 +1,4 @@
-# DocuMind: Agente IA de Análisis de Documentos
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d1c557c-7bce-43e0-8f43-31c0f308e87d" /># DocuMind: Agente IA de Análisis de Documentos
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -80,7 +80,7 @@ la respuesta final con el modelo de Groq.
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/DocuMind.git
+git clone https://github.com/ShaiBG0/DocuMind.git
 cd DocuMind
 ```
 
