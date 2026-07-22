@@ -32,7 +32,7 @@ function App() {
     formData.append('file', file);
 
     try {
-      const response = await fetch('${import.meta.env.VITE_API_URL}/upload', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/upload`, {
         method: 'POST',
         body: formData,
       });
@@ -56,7 +56,7 @@ function App() {
     setLoading(true);
 
     try {
-      const response = await fetch('${import.meta.env.VITE_API_URL}/chat', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ pregunta: userMessage.text }),
